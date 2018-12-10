@@ -47,6 +47,12 @@ https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/configure-iot.html
 2. IoT 1-Clickプロジェクトを作成してLambdaと関連づける。
 3. デバイスのボタンを押す。
 
+## AWSの料金
+https://aws.amazon.com/jp/iot-1-click/pricing/
+IoT 1-Clickは1端末につき月額約28円。(2018年12月現在)
+→端末ごとの課金なのでボタンを連打しても全く押してなくても値段は一緒。
+Lambdaは大したことやってないので、テスト用途ならほぼ0円。
+
 ## サンプル
 ![Sample](.github/app.png)
 
