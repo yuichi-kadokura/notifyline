@@ -1,0 +1,15 @@
+{
+  "name": "com.ahoworld.notifyLine",
+  "version": "1.0.0",
+  "description": "Notify LINE from AWS IoT Button.",
+  "main": "index.js",
+  "author": {
+    "name": "Yuichi Kadokura",
+    "email": "yuichi.kadokura@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "querystring": "^0.2.0"
+  }
+}
